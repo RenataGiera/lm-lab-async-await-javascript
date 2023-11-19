@@ -19,4 +19,3 @@ const promise = new Promise((resolve, reject) => {
   }
 
 
-getPromiseResponse();
